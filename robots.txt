@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polishedorbit.shop/sitemap.xml
